@@ -14,11 +14,12 @@ Thư viện được tổ chức với cấu trúc như sau:
 chuẩn bị file: [__init__.py](fxplc_lib%2F__init__.py), [fxplc.py](fxplc_lib%2Ffxplc.py),[setup.py](setup.py)
 cách thực hiện :
 - mở cmd tại nơi chứa file setup.py 
-![img_3.png](img_3.png)
+![img_2.png](img_2.png)
 chạy dòng : python setup.py sdist ( để đóng gói thư viện)
-![img_4.png](img_4.png)
+![img_4.png](img%2Fimg_4.png)
 - cài đặt thư viện vào môi trường ảo
 + mở terminal trong pycharm
+![img_3.png](img%2Fimg_3.png)
 + chạy lệnh pip install/path/to/your/fxplc_lib/fxplc-1.0.0.tar.gz
   (lưu ý: path/to/your/fxplc_lib/ là link lưu thư mục/file)
 + sử dụng bình thường
