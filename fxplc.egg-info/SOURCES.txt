@@ -1,0 +1,8 @@
+setup.py
+fxplc.egg-info/PKG-INFO
+fxplc.egg-info/SOURCES.txt
+fxplc.egg-info/dependency_links.txt
+fxplc.egg-info/requires.txt
+fxplc.egg-info/top_level.txt
+fxplc_lib/__init__.py
+fxplc_lib/fxplc.py
