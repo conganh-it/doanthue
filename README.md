@@ -9,7 +9,7 @@
 
 Thư viện được tổ chức với cấu trúc như sau:
 
-![img_5.png](img_5.png)
+![img_2.png](img%2Fimg_2.png)
  
 chuẩn bị file: [__init__.py](fxplc_lib%2F__init__.py), [fxplc.py](fxplc_lib%2Ffxplc.py),[setup.py](setup.py)
 cách thực hiện :
