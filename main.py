@@ -21,6 +21,7 @@ while True:  # Bắt đầu vòng lặp chính để xử lý từng khung hình
         print("Không thể đọc khung hình từ camera. Kiểm tra lại.")  # Thông báo lỗi
         break  # Thoát vòng lặp chính
 
+
     # Decode các mã barcode trong hình ảnh
     barcodes = decode(img)  # Giải mã tất cả các barcode và QR code có trong khung hình
     if not barcodes:  # Nếu không tìm thấy barcode nào
